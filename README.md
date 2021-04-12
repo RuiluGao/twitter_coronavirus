@@ -3,7 +3,7 @@
 ## Background 
 
 In the year of 2020, coronavirus created a huge influence to everyone globally. Approximately 500 million tweets are sent everyday.
-Of those tweets, about 1% are *geotagged*. In this project, I scan all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media by language and by location. This project aims to demonstrate the number of tweets contained COVID-related tags by languages used and by countries located.
+Of those tweets, about 1% are *geotagged*. In this project, I scanned all geotagged tweets sent in 2020 to monitor for the spread of the coronavirus on social media by language and by location. This project aims to demonstrate the number of tweets contained COVID-related tags by languages used and by countries located.
 
 
 ## Methodology
